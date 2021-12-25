@@ -1,3 +1,4 @@
+## Origin : https://github.com/1j01/98
 
 # ![](images/icons/windows-update-32x32.png) [98.js](https://98.js.org)
 
